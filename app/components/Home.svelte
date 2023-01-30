@@ -21,7 +21,7 @@
 
     .info {
         font-size: 20;
-        horizontal-align: center;
+        text-align: center;
         vertical-align: center;
     }
 </style>
